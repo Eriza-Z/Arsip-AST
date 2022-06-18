@@ -1,11 +1,15 @@
-# Redirecting non-existing page to main web page and also removing file extension
+# remove html file extension https://eriza-z.github.io/index.html or https://erizazg.my.id/index.html
 
-RewriteEngine On 
-RewriteCond %{REQUEST_FILENAME} !-f 
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteRule . /index.html?url=%{REQUEST_URI} [R,L] 
+# to https://eriza-z.github.io/index or https://erizazg.my.id/index
+
+# and auto redirect non-existing to 404.html
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC, L]
 RewriteRule ^(.*)index$ / [R=301,L]
+ErrorDocument 404/404.html
 RewriteRule . /index.html [L]
 
 # Extra Security Headers
