@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://arsipast.palpale.xyz/sitemap

@@ -1,0 +1,17 @@
+# Redirecting non-existing page to main web page and also removing file extension
+
+RewriteEngine On 
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteRule . /index.html?url=%{REQUEST_URI} [R,L] 
+RewriteRule ^([^\.]+)$ $1.html [NC, L]
+RewriteRule ^(.*)index$ / [R=301,L]
+RewriteRule . /index.html [L]
+
+# Extra Security Headers
+
+<IfModule mod_headers.c>
+	Header set X-XSS-Protection "1; mode=block"
+	Header always append X-Frame-Options SAMEORIGIN
+	Header set X-Content-Type-Options nosniff
+</IfModule>

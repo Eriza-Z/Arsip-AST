@@ -1,0 +1,31 @@
+Web Maker
+	Name: Eriza Zehezkiel Gracia
+	Twitter: @eriza_gracia
+	Instagram: @erizazg
+  GitHub: https://github.com/Eriza-Z
+  Discord: [REDACTED]
+	Web: https://erizazg.my.id
+	From: Kepulauan Riau, Indonesia
+
+Archiver
+	Name: Mbek
+	Instagram: @mbek.tilil
+  Discord: NаughtуGоаt#2007 | https://discord.com/channels/@me/963424979326742618
+  Xbox: Meowerz2307
+	Web: https://naughtygoat.xyz/p/about.html
+	From: Indonesia
+
+Domain
+	Name: Bayu
+  GitHub: https://github.com/BayuBatam2008
+  Twitter: @BayuBatam2008
+  Discord: Palpale#9227 | https://discord.com/channels/@me/676363120515481630
+  Xbox: BayuBatam2008
+	Web: https://palpale.xyz
+	From: Batam, Kepulauan Riau, Indonesia
+
+Site Information
+	Last update: 18/06/2022 DD-MM-YYYY
+	Language: Indonesia 
+	Doctype: HTML5
+	IDE: Visual Studio Code
