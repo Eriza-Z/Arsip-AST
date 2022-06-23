@@ -1,10 +1,10 @@
 Web Maker
-	Name: ErZ
-	Twitter: [REDACTED]
-	Instagram: [REDACTED]
-  GitHub: https://github.com/Er......
-  Discord: [REDACTED]
-	Web: [REDACTED]
+	Name: Eriza Zehezkiel Gracia
+	Twitter: @erizazg
+	Instagram: @eriza_gracia
+  GitHub: https://github.com/Eriza-Z
+  Discord: AQXC#7499 | 586376952470831104
+	Web: https://erizazg.my.id
 	From: Kepulauan Riau, Indonesia
 
 Archiver
@@ -25,7 +25,8 @@ Domain
 	From: Batam, Kepulauan Riau, Indonesia
 
 Site Information
-	Last update: 18/06/2022 DD-MM-YYYY
-	Language: Indonesia 
+	Last update: 23/06/2022 DD-MM-YYYY
+	Language: Indonesia - English
 	Doctype: HTML5
 	IDE: Visual Studio Code
+	Web Host: GitHub Pages
